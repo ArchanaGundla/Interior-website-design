@@ -1,0 +1,38 @@
+.css{
+    margin: 0px;
+    height: 50%;
+    width:80%;
+    background-color:grey;
+    padding: 50px;
+    display: flex;
+    
+}
+.fire{
+    margin: 5px;
+    width:15%;
+    background-color:red;
+    padding: 30px;
+    /* margin-left: 4%; */
+    /* display: inline-block; */
+    
+
+}
+.web{
+    margin: 0px;
+    height: 50%;
+    width:80%;
+    background-color:black;
+    padding: 50px;
+    display: block;
+    /* margin-left: 4%; */
+    
+}
+.done{
+    margin: 5px;
+    width:25%;
+    background-color:red;
+    padding: 30px;
+    /* display: inline-block; */
+
+}
+
